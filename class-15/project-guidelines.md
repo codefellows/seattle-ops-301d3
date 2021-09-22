@@ -38,7 +38,7 @@ Your team will practice your presentation prior to the final presentation day. T
 Practice and prepare your technical demonstrations in advance of demo day to rule out any quirks/bugs. 
 
 General slide deck guidelines:
-- The presentation slides must use the aesthetic formatting of the [template slide deck](https://docs.google.com/presentation/d/16LOH5KiIVGq3oJReWa2kVO_VgQZlYG9K4vNXJuJNJdE).
+- The presentation slides must use the aesthetic formatting of the [template slide deck](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit?usp=sharing).
   - Remember to create your own copy of the template and do not edit the template itself.
 - Ensure your timing is no more than 25 minutes long, including some time at the end for questions. 
 - Present from the final product, deployed site, or offical documentation that you produce.
